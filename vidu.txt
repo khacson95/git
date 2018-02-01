@@ -1,2 +1,3 @@
 Day la vi du 1
 -Commit lan 1 sau khi clone
+-Commit lan 2 test loi merge
